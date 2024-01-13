@@ -85,7 +85,7 @@ nav .toggle i {
 }
 
 #main-hero {
-    background-image: url(images/desktop/image-hero.jpg);
+    background-image: url(image-hero.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
